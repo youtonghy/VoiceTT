@@ -1,3 +1,7 @@
+# 本项目已不再更新维护,请使用全平台现代化支持的https://github.com/youtonghy/VoiceTT-RN
+
+
+
 # VoiceTT
 
 ![](https://github.com/youtonghy/Voice-transcript/blob/dev/electron/PixPin_2025-09-25_14-05-47.png?raw=true)
